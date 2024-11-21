@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zsyborg
 - 👀 Building Concrete Solutions for Humanity
-- 🌱 I’m currently developing a Franchise Order App
-- 💞️ I’m looking to collaborate on Tax Reform Repo
+- 🌱 I’m currently building so that future gens can learn thay re humans
+- 💞️ I’m looking to collaborate on Tax Reform Repo https://github.com/zsyborg/Tax-Reform-India
 - 📫 How to reach me itsme@zahidshaikh.com
 
 <!---
